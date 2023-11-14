@@ -4,7 +4,7 @@
 # from langchain import OpenAI
 from langchain.llms import VertexAI, LlamaCpp
 from llama_index import SimpleDirectoryReader, LangchainEmbedding, GPTListIndex,GPTVectorStoreIndex, PromptHelper
-from llama_index import LLMPredictor, ServiceContext
+from llama_index import LLMPredictor, ServiceContext, load_index_from_storage, StorageContext
 import sys
 import os
 from langchain.embeddings import HuggingFaceEmbeddings, LlamaCppEmbeddings
@@ -27,13 +27,13 @@ def construct_index(directory_path):
     prompt_helper = PromptHelper(max_input_size, num_outputs, chunk_overlap_ratio, chunk_size_limit=chunk_size_limit)
 
     # define LLM
-    # model_path = "D:/Yogesh/GitHub/Sarvadnya/src/models/llama-7b.ggmlv3.q4_0.gguf.bin"
-    # llm = LlamaCpp(model_path=model_path) # VertexAI()  # need GCP account, project, config set in ENV variable
-    # embeddings = LlamaCppEmbeddings(model_path=model_path)
-
-    llm = VertexAI()  # need GCP account, project, config set in ENV variable
+    model_path = "D:/Yogesh/GitHub/Sarvadnya/src/models/llama-7b.ggmlv3.q4_0.gguf.bin"
+    llm = LlamaCpp(model_path=model_path) # VertexAI()  # need GCP account, project, config set in ENV variable
+    # llm = VertexAI()  # need GCP account, project, config set in ENV variable
     llm_predictor = LLMPredictor(llm=llm)
-    embeddings = HuggingFaceEmbeddings()
+
+    # embeddings = HuggingFaceEmbeddings()
+    embeddings = LlamaCppEmbeddings(model_path=model_path)
     embed_model = LangchainEmbedding(embeddings)
 
     documents = SimpleDirectoryReader(directory_path).load_data()
@@ -41,19 +41,22 @@ def construct_index(directory_path):
     service_context = ServiceContext.from_defaults(llm_predictor=llm_predictor, embed_model=embed_model)
     index_obj = GPTVectorStoreIndex.from_documents(documents, service_context=service_context)
 
-    index_obj.save_to_disk('model/index.json')
+    index_obj.storage_context.persist('./model')
 
     return index_obj
 
 
 def ask_bot(input_index='model/index.json'):
-    index_obj = GPTVectorStoreIndex.load_from_disk(input_index)
+    storage_context = StorageContext.from_defaults(persist_dir="./model")
+    index_obj = load_index_from_storage(storage_context)
+    query_engine = index_obj.as_query_engine()
+    # index_obj = GPTVectorStoreIndex(input_index)
     while True:
         query = input('What do you want to ask the bot?   \n')
         if query == "nothing":
             return
-        response = index_obj.query(query, response_mode="compact")
-        print("\nBot says: \n\n" + response.response + "\n\n\n")
+        response = query_engine.query(query)
+        print("\nBot says: \n\n" + response + "\n\n\n")
 
 
 index = construct_index("data/")
