@@ -6,6 +6,7 @@ Repository related to my study/learnings/understandings of Kautilya's ArthaShast
 
 ### ArthaShastra
 - [Paper 2 - Arthashastra of Kautilya](https://www.youtube.com/playlist?list=PLDPM37q9Z7Zi0o5sqQcoy67RvwCj4kLUM) 10 videos series by Radhakrishnan Pillai, Oct 2016
+- [#Unit 10 #UGC NET JRF सरल संस्कृत व्याकरण](https://www.youtube.com/playlist?list=PL39UNnD3YL5iGfsyf3f1alS04bjfhFbsh) Detailed study with shlokas
 - [Rishi Chanakya's Arthashastra](https://www.youtube.com/playlist?list=PLrrbJ0HMXRgTi-MDuyotXMXT4ZKJhSDxl)
 - [International Seminar on Kautilya](https://www.youtube.com/playlist?list=PLrR2OTOrNPrh8TQLOo_OPhLNRDH9dV5-p)
 - [Management terms in Koutaliya Arthashastra with Dr. Uma Bodas. Host - Vaishali Shah](https://www.youtube.com/watch?v=F005qcrS21k)
