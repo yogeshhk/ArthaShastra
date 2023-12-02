@@ -21,3 +21,7 @@ Repository related to my study/learnings/understandings of Kautilya's ArthaShast
 - [Sanskrit Amritmala](https://www.youtube.com/playlist?list=PLNKc9XA6KRsMbeLPkZu3M4H6PbZcfeDL2) 50 videos
 - [An Advanced Sanskrit Grammar](https://www.youtube.com/playlist?list=PLNKc9XA6KRsM_-H_ZBZ2Abe-av4ZrRfmv) 49 videos
 - [Spoken Sanskrit-December 2019](https://www.youtube.com/playlist?list=PLwczsAlRTlwZbehc9qkdX5VmVflzolWYG)
+- [Sanskrit Linguistics](https://www.youtube.com/playlist?list=PLlNdduOe1pp0n-MJqwncm4GHFmczcIb0L)
+- [Sanskrit for Sastra Study by Br. Ved Chaitanya](https://www.youtube.com/playlist?list=PLlNdduOe1pp12SWXlphYT5h7zj0p2mhx3)
+- [Dr. Vasudev Prasad](https://www.youtube.com/playlist?list=PLhRKsB88RuSmldpHV7ZfjktP1aGsGBVbF)
+- [Sanskrit Basic Grammar and Learning Materials (Class VI -X)](https://kv2libraipur.home.blog/sanskrit-basic-grammar-and-learning-materials-class-vi-x/)
