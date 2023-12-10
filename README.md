@@ -13,6 +13,8 @@ Repository related to my study/learnings/understandings of Kautilya's ArthaShast
 - [Kautilya Arthasastra National Seminar](https://www.youtube.com/results?search_query=%22Kautilya+Arthasastra+National+Seminar%22&sp=mAEB)
 - [Chanakya Aanvikshiki Pvt Ltd](https://www.youtube.com/@chanakya-aanvikshiki/videos)
 - [International Seminar on Kautilya](https://idsa.in/event/InternationalSeminaronKautilya)
+- [ideas and institutions in Indian political thought](https://www.youtube.com/playlist?list=PLoPQmEeX6KeaVL2wqMeCKUSnDKr42HkRC)
+- [Ancient Indian political thought](https://www.youtube.com/playlist?list=PL1aqXXARaunF6YhWHlVKr5a9Oxbw4SVqV)
 
 ### Sanskrit
 - [Ten Day Spoken Sanskrit Classes by Prof B Mahadevan](https://www.youtube.com/playlist?list=PLWjpkY4mU2RDq1GVq0dQwnNsuYnKXoLkV) Very Good, lively.
