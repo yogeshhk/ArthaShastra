@@ -7,7 +7,7 @@ Repository related to my study/learnings/understandings of Kautilya's ArthaShast
 ### ArthaShastra
 - [Paper 2 - Arthashastra of Kautilya](https://www.youtube.com/playlist?list=PLDPM37q9Z7Zi0o5sqQcoy67RvwCj4kLUM) 10 videos series by Radhakrishnan Pillai, Oct 2016
 - [#Unit 10 #UGC NET JRF सरल संस्कृत व्याकरण](https://www.youtube.com/playlist?list=PL39UNnD3YL5iGfsyf3f1alS04bjfhFbsh) Detailed study with shlokas
-- [Rishi Chanakya's Arthashastra](https://www.youtube.com/playlist?list=PLrrbJ0HMXRgTi-MDuyotXMXT4ZKJhSDxl)
+- [Rishi Chanakya's Arthashastra](https://www.youtube.com/playlist?list=PLrrbJ0HMXRgTi-MDuyotXMXT4ZKJhSDxl), [Ami Gamatra talks](https://www.youtube.com/@amiganatra547)
 - [International Seminar on Kautilya](https://www.youtube.com/playlist?list=PLrR2OTOrNPrh8TQLOo_OPhLNRDH9dV5-p)
 - [Management terms in Koutaliya Arthashastra with Dr. Uma Bodas. Host - Vaishali Shah](https://www.youtube.com/watch?v=F005qcrS21k)
 - [Kautilya Arthasastra National Seminar](https://www.youtube.com/results?search_query=%22Kautilya+Arthasastra+National+Seminar%22&sp=mAEB)
@@ -17,6 +17,7 @@ Repository related to my study/learnings/understandings of Kautilya's ArthaShast
 - [Ancient Indian political thought](https://www.youtube.com/playlist?list=PL1aqXXARaunF6YhWHlVKr5a9Oxbw4SVqV)
 
 ### Sanskrit
+- [Digital Sanskrit Learning - Level 1 - Bori](https://www.bharatvidya.in/p/spoken-sanskrit-level-1)
 - [Ten Day Spoken Sanskrit Classes by Prof B Mahadevan](https://www.youtube.com/playlist?list=PLWjpkY4mU2RDq1GVq0dQwnNsuYnKXoLkV) Very Good, lively.
 - [Sanskrit School - संस्कृतम्  by Rashtriya Sanskrit Sansthan, www.sanskrit.nic.in](https://www.youtube.com/playlist?list=PLgp0aDWIOdvJ5ZgxFwQRJxddDWTexoBtt) Very comprehensive, old, 60+ videos
 - [Sanskrit Language Cours](https://www.youtube.com/playlist?list=PLNKc9XA6KRsPiNk9grlpwJwnnfY5dr2dN) 90 videos, looks comprehensive
@@ -27,3 +28,12 @@ Repository related to my study/learnings/understandings of Kautilya's ArthaShast
 - [Sanskrit for Sastra Study by Br. Ved Chaitanya](https://www.youtube.com/playlist?list=PLlNdduOe1pp12SWXlphYT5h7zj0p2mhx3)
 - [Dr. Vasudev Prasad](https://www.youtube.com/playlist?list=PLhRKsB88RuSmldpHV7ZfjktP1aGsGBVbF)
 - [Sanskrit Basic Grammar and Learning Materials (Class VI -X)](https://kv2libraipur.home.blog/sanskrit-basic-grammar-and-learning-materials-class-vi-x/)
+- [National Seminar on Manuscripts](https://www.youtube.com/playlist?list=PLjFl99f9x7pvwoBi498eUvDVG4Fp5PIZu)
+
+### Manuscripts
+- [Dharohar](https://dharohar.org/en/the-cataloguing-process), [Sangrah](https://sangrah.org/), [Sanjaya Singhal](https://www.securemeters.com/in/council/sanjaya-singhal/)
+- [Namami - National Mission for Manuscripts](https://www.namami.gov.in/)
+- [Bori](https://bori.ac.in/), [Shrinand Bapat](https://bori.academia.edu/ShreenandBapat)
+- [Prof Ravikiran](https://www.iiit.ac.in/people/faculty/ravi.kiran/) AI/ML for text detection IIITH [Intelligent Historical Document Image Analysis (IHDIA)](https://ihdia.iiit.ac.in/)
+- [Sai Surasal](https://mitvedicsciences.edu.in/archives/team/dr-sai-ramakrishna-susarla), [VedVaapi](https://www.vedavaapi.org/), MIT-ADT Pune, Knowledge Graph, web platform, [Shastra Maps](https://mitvedicsciences.edu.in/shaastric-modeling-fdp)
+- [Pawan Goyal IIT KGP](https://www.iitkgp.ac.in/department/CS/faculty/cs-pawang), [Sanskrit Heritage Site](https://sanskrit.inria.fr/)
