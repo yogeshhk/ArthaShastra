@@ -33,7 +33,7 @@ Repository related to my study/learnings/understandings of Kautilya's ArthaShast
 - [Shaastra Setu - Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5rSF0DGqrD-atPq0wMn_O1k)
 - [Samsaadhanii Praveshikaa - Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5q4Mln6VX_lniW6iDLRNyTm)
 
-### Manuscripts
+### Indian Knowledge System
 - [Dharohar](https://dharohar.org/en/the-cataloguing-process), [Sangrah](https://sangrah.org/), [Sanjaya Singhal](https://www.securemeters.com/in/council/sanjaya-singhal/)
 - [Namami - National Mission for Manuscripts](https://www.namami.gov.in/)
 - [Bori](https://bori.ac.in/), [Shrinand Bapat](https://bori.academia.edu/ShreenandBapat)
@@ -42,3 +42,4 @@ Repository related to my study/learnings/understandings of Kautilya's ArthaShast
 - [Pawan Goyal IIT KGP](https://www.iitkgp.ac.in/department/CS/faculty/cs-pawang), [Sanskrit Heritage Site](https://sanskrit.inria.fr/)
 - [Shaastra Maps: Enabling Conceptual Exploration of Indic Shaastra Texts](https://www.youtube.com/watch?v=S72Bj7EC--U)
 - [Shaastric Modeling Course](https://mitvedicsciences.edu.in/enroll/shaastric-modeling)
+- [National Youth Conference on Indian Knowledge Systems at Chinmaya Vishwa Vidyapeeth](https://www.youtube.com/playlist?list=PLbQHD8oHpmE066jXXY7rMSazzwlR4JepN)
