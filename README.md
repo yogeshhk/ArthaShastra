@@ -1,6 +1,20 @@
 # ArthaShastra
 Repository related to my study/learnings/understandings of Kautilya's ArthaShastra
 
+Also, higher level goal is to learn Sanskrit well
+
+## Sanskrit
+- WHY? 
+	- Witty, terse, minimalist language, respected Brahmin Kautilya
+	- World needs the knowledge still hidden in texts
+	- Build solutions with AI + Sanskrit or indic languages, talks and teachings, along with Yoga
+	
+- What?
+	- To be able to teach upto std 10
+	- To speak basic conversation
+	- With mentor guidance, read classic texts, do *sandhi-vigraha*
+	- Apply AI, embedding, bharat gpt, good script OCR, knowledge shastra map graph, LLM chatbot on top, for research 
+
 
 ## References
 
