@@ -1,11 +1,13 @@
 # ArthaShastra
-Repository related to my study/learnings/understandings of Kautilya's ArthaShastra
+Repository related to my study/learnings/understandings of Kautilya's ArthaShastra.
+
+(new) Kautilya: Geopolitics, Minimalist, respected, Monk-Yati-Yogi-Brahmin-Dettached, Philosopher, Coach, Guide, Teacher, Mentor, Sanskrit, Logo head back with open hair
 
 Also, higher level goal is to learn Sanskrit well
 
 ## Sanskrit
 - WHY? 
-	- Witty, terse, minimalist language, respected Brahmin Kautilya
+	- Witty, terse, minimalist language, respected Brahmin Kautilya, Logo head back with open hair
 	- World needs the knowledge still hidden in texts
 	- Build solutions with AI + Sanskrit or indic languages, talks and teachings, along with Yoga
 	
