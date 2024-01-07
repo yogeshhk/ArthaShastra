@@ -48,6 +48,8 @@ Also, higher level goal is to learn Sanskrit well
 - [Sanskrit & Computational Linguistics | Dr Pawan Goyal, IIT Kharagpur](https://www.youtube.com/watch?v=m6IBfoE0hzA)
 - [Shaastra Setu - Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5rSF0DGqrD-atPq0wMn_O1k)
 - [Samsaadhanii Praveshikaa - Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5q4Mln6VX_lniW6iDLRNyTm)
+- [SANSKRIT TEACHER](https://www.youtube.com/@SANSKRITTEACHER1994) Std 8-9-10 study in Marathi
+
 
 ### Indian Knowledge System
 - [Dharohar](https://dharohar.org/en/the-cataloguing-process), [Sangrah](https://sangrah.org/), [Sanjaya Singhal](https://www.securemeters.com/in/council/sanjaya-singhal/)
